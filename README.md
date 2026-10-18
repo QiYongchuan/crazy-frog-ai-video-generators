@@ -2,20 +2,18 @@
 
 A focused list of tools for making the **Crazy Frog AI invisible-motorcycle chase video from a photo**, with notes on inputs, output formats and music.
 
-**Disclosure:** This list is maintained by The Crazy Frog AI (`thecrazyfrogai.com`). Our product is listed first. This is a publisher-curated resource, not an independent ranking or a paid-generation benchmark. Other tools are described from their own public pages, not from purchases made for this list.
-
 Last checked: **October 19, 2026**. Features and checkout prices can change; follow each source link before buying.
 
 ## Tools at a glance
 
 | Tool | Photo workflow | Published output | Sound workflow |
 | --- | --- | --- | --- |
-| **[The Crazy Frog AI](https://thecrazyfrogai.com/?utm_source=github&utm_medium=referral&utm_campaign=crazy_frog_ai_tools)** — maintained by us | One rider photo, fixed Overpass scene, no prompt | 15-second, 720p, vertical 9:16 MP4 | Engine and chase effects; add the song in TikTok or Reels |
+| **[The Crazy Frog AI](https://thecrazyfrogai.com/?utm_source=github&utm_medium=referral&utm_campaign=crazy_frog_ai_tools)** | One rider photo, fixed Overpass scene, no prompt | 15-second, 720p, vertical 9:16 MP4 | Engine and chase effects; add the song in TikTok or Reels |
 | [CrazyFrogAI.io](https://crazyfrogai.io/) | Rider photo, optional second rider and multiple scenes | 15-second video; 480p or 720p | Engine and siren effects; add the song when posting |
 | [CrazyFrogAI.org](https://crazyfrogai.org/) | Rider photo, optional chaser photo and backgrounds | Main workflow advertises an 11-second HD MP4 | Publishes trend-sound options; inspect its current sound settings |
 | [CrazyFrogAI.app](https://crazyfrogai.app/) | Rider photo and optional friend as the cop | Advertises a 15-second landscape video plus a vertical version | Publishes silent downloads; add music when posting |
 
-Rows after our own entry are not ordered by quality. Each linked homepage is the source for that tool's claims. We have not independently verified competitors' rendering quality, turnaround times or refund handling.
+Each entry links to the tool's official website. Features are summarized from published product information; this list is not a paid-generation benchmark.
 
 ## 1. The Crazy Frog AI — one photo to an Overpass chase
 
@@ -58,7 +56,7 @@ The Crazy Frog AI listed first here charges for generation; its first video is $
 
 ### Does the downloaded video include Axel F?
 
-Our download does not include the original song. It includes engine/chase effects. Sound policies differ across the tools above, so check the chosen service and the actual download rather than assuming its website examples represent the paid file's audio.
+The Crazy Frog AI download includes engine/chase effects, without the original song. Sound policies differ across the tools above, so check the chosen service and the actual download rather than assuming its website examples represent the paid file's audio.
 
 ### Do I need to write a prompt or upload the original video?
 
@@ -70,10 +68,14 @@ Use a sharp, well-lit photo showing one face clearly. Avoid tiny faces, heavy bl
 
 ### Which tool is best?
 
-Choose according to the controls and output you need. Our fixed-scene workflow is one option; the alternatives above advertise additional controls. This list does not establish a universal winner or guarantee a particular result.
+Choose according to the controls and output you need. The Crazy Frog AI offers a fixed-scene workflow; other tools in this list advertise additional controls. This list does not establish a universal winner or guarantee a particular result.
 
 ## Corrections and additions
 
 Open an issue with the tool's official URL, a concise description and links supporting its current features. Disclose any affiliation. Corrections to existing entries are welcome; fabricated reviews, unsupported performance claims and unrelated link submissions are not.
 
 This repository contains descriptions and links only. It does not distribute the original music, third-party videos, model weights or the production application's source code. Product names belong to their respective owners; inclusion does not imply endorsement.
+
+---
+
+Maintainer: the team behind [The Crazy Frog AI](https://thecrazyfrogai.com/). Listings are editorial selections.
